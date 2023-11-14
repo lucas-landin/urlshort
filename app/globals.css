@@ -10,4 +10,14 @@
 
 body{
     font-size: 18px;
+   
+}
+
+@media(max-width:640px){
+    *{
+    overflow-x: hidden;
+    }
+    h1{
+        overflow: hidden;
+    }
 }

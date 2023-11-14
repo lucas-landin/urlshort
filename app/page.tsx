@@ -1,11 +1,10 @@
-
+import Intro from "./components/Intro"
 
 export default function Home() {
   return (
    
-    <div className=" mt-10 ">
-      
-      hello world
+    <div className="">
+      <Intro />
     </div>
   )
 }
