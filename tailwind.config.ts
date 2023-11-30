@@ -12,7 +12,8 @@ const config: Config = {
       'xll':['80px','1.25']
      },
      backgroundImage:{
-      'input-mob':"url('./assets/bg-shorten-mobile01.svg')"
+      'input-mob':"url('./assets/bg-shorten-mobile01.svg')",
+      'imput-desk':"url('./assets/bg-shorten-desktop01.svg')"
      }
     },
   },
