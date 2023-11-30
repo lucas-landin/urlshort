@@ -10,6 +10,9 @@ const config: Config = {
     extend: {
      fontSize:{
       'xll':['80px','1.25']
+     },
+     backgroundImage:{
+      'input-mob':"url('./assets/bg-shorten-mobile01.svg')"
      }
     },
   },
