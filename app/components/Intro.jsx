@@ -19,7 +19,7 @@ function Intro() {
             <p className=" text-gray-400 px-4 md:text-xl text md:pb-4 ">
             Build your brand’s recognition and get detailed insights on how your links are performing.
             </p>
-           <button className="bg-[#2ACECC] font-bold w-2/4 md:w-1/3 md:ml-2  p-3 rounded-3xl text-white mt-4">Get Started </button>
+           <button className="bg-[#2ACECC] font-bold w-2/4 md:w-1/3 md:ml-2  p-3 rounded-3xl text-white mt-4 hover:opacity-70">Get Started </button>
       </div>
 
     </div> );
