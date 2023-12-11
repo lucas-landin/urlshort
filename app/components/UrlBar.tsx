@@ -9,6 +9,7 @@ function UrlBar() {
          <button className="bg-[#2ACECC] font-bold rounded-md text-white mt-4 p-3 lg:w-[15%] lg:p-4 lg:mb-2 hover:bg-[#5adedc] ">Shorten it!</button>
        </div>
        </div>
+       
     </div> 
     );
 }
